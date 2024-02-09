@@ -1,8 +1,12 @@
 {
   "name": "com.pampou.extendedtoolbar",
-  "version": "1.1.2",
-  "displayName": "Custom-Toolbar",
+  "version": "0.0.1",
+  "displayName": "Extended Toolbar",
   "description": "This custom tool helps you to test and develop your game easily",
   "unity": "2020.1",
-  "unityRelease": "1f1"
+  "unityRelease": "1f1",
+  "author": {
+    "name": "Pampou",
+    "url": "https://github.com/Pampou/com.pampou.extendedtoolbar.git"
+  }
 }
