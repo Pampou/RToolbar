@@ -1,0 +1,14 @@
+{
+	"name": "com.pampou.extendedtoolbar",
+	"displayName": "ExtendedToolbar",
+	"version": "1.0.2",
+	"unity": "2020.1.1f1",
+	"author": "Pampou",
+	"description": "Extended Toolbar",
+	"dependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Pampou/RToolbar.git"
+	}
+}
